@@ -454,8 +454,7 @@ padding-bottom: 15px;
     float: left;
     padding: 5px 0;
     font-weight: bold;
-    font-family: 
-    
+   
 }
 
 .social
@@ -542,15 +541,15 @@ width: 60px;
 /*fonts*/
 
 h1,h2,h3,h4 {
-  font-family: 'Eczar', serif;
+  /* font-family: 'Eczar', serif; */
 
-  text-shadow: 4px 4px 4px #aaa;
+  /* text-shadow: 4px 4px 4px #aaa; */
 letter-spacing: 3px;
 }
 
 .footer h3 {
-    text-shadow: 0.04em 0.04em 0 #000, 0.08em 0.08em 0 #aaa;
-    -webkit-text-shadow: .04em .04em 0 #000, .08em .08em 0 #aaa;
+    /* text-shadow: 0.04em 0.04em 0 #000, 0.08em 0.08em 0 #aaa;
+    -webkit-text-shadow: .04em .04em 0 #000, .08em .08em 0 #aaa; */
 }
 
 /*spinner*/
